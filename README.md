@@ -1,0 +1,1 @@
+# Frooti-static-website
